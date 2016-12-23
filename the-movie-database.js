@@ -1,23 +1,16 @@
-<!doctype html>
-<html>
-  <head>
-    <script src="js/javascript-objects-exercises.js"></script>
-  </head>
-  <body>
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="therecipecard.html">The Recipe Card</a></li>
-      <li><a href="thereadinglist.html">The Reading List</a></li>
-      <li><a href="themoviedatabase.html">The Movie Database</a></li>
-    </ul>
-    <h1>The Movie Database</h1>
-    <div id="output"></div>
-    <script>
-      // YOUR CODE GOES HERE
+/*
 
-      // Call the addOutput function with your output value
-      // when you are ready.
-      // Example: addOutput(outputValue);
-    </script>
-  </body>
-</html>
+The Movie Database
+
+It's like IMDB, but much much smaller!
+
+Create an object to store the following information
+about your favorite movie: title (a string), duration
+(a number), and stars (an array of strings).
+Create a function to print out the movie information
+like so: "Puff the Magic Dragon lasts for 30 minutes.
+Stars: Puff, Jackie, Living Sneezes."
+
+*/
+
+// YOUR CODE GOES HERE
